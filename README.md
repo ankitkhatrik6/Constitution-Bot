@@ -1,11 +1,11 @@
-# 🇳🇵 Constitution of Nepal Guide (Samvidhan AI)
+# 🇳🇵 Samvidhan AI
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=groq&logoColor=white)
 
-Welcome to the **Constitution of Nepal Guide (Samvidhan AI)**! I built this project to make it easier for people to explore and understand the Constitution of Nepal. 
+Welcome to **Samvidhan AI**! I built this project to make it easier for people to explore and understand the Constitution of Nepal. 
 
 Instead of reading through hundreds of pages of legal text, you can just ask questions! It uses a RAG (Retrieval-Augmented Generation) system powered by Groq and LLaMA-3.3-70b to find the most relevant articles and summarize them for you in plain language.
 

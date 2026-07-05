@@ -1,7 +1,7 @@
 {
-  "name": "constitution-of-nepal-guide",
+  "name": "samvidhan-ai",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
