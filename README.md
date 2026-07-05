@@ -51,5 +51,8 @@ I built this using:
 - **AI Integration:** Groq API (LLaMA-3.3-70b-versatile)
 - **Search:** Custom TF-IDF semantic document grounding
 
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 *Made with ❤️ by Ankit Khatri KC*
