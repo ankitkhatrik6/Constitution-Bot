@@ -185,7 +185,7 @@ export function ChatSection({ messages, loading, onSendMessage, onClearChat }: C
           <div className="flex flex-col min-w-0">
             <div className="flex items-center gap-2 flex-wrap sm:flex-nowrap">
               <span className="text-xs sm:text-sm font-mono font-bold tracking-[0.05em] sm:tracking-[0.15em] text-slate-200 uppercase leading-none">
-                Nepal Samvidhan AI
+                Nepal Ko Samvidhan
               </span>
               <span className="text-[8px] sm:text-[9px] bg-red-950/40 border border-[#DC143C]/20 text-[#DC143C] font-mono px-1.5 sm:px-2 py-0.5 rounded-full font-bold uppercase tracking-wider leading-none shrink-0">
                 Grounded RAG

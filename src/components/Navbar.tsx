@@ -42,9 +42,6 @@ export function Navbar({ currentTab, setCurrentTab, engineStatus }: NavbarProps)
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 shrink-0 w-full flex items-center justify-between">
         {/* Brand Identity */}
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 bg-[#DC143C] flex items-center justify-center font-serif font-black text-xl text-white shrink-0">
-            N
-          </div>
           <div className="leading-none">
             <h1 className="text-lg sm:text-xl font-serif font-black tracking-tighter text-white">
               SAMVIDHAN <span className="text-[#DC143C]">AI</span>

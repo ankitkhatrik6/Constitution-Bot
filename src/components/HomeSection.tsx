@@ -44,7 +44,7 @@ export function HomeSection({ onStartChatting, messages, onClearChat }: HomeSect
             Federal Democratic Republic of Nepal
           </span>
           <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight select-none">
-            SAMVIDHAN <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#DC143C] to-[#E3425F]">AI</span>
+            NEPAL KO <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#DC143C] to-[#E3425F]">SAMVIDHAN</span>
           </h1>
           <p className="font-serif text-sm sm:text-base text-slate-300 max-w-2xl mx-auto leading-relaxed">
             Unveil the Supreme Law of Nepal with a highly precise, AI-powered Retrieval-Augmented Generation (RAG) assistant. Grounded natively in the 308 Articles of the official 2072 Constitution.
@@ -165,7 +165,7 @@ export function HomeSection({ onStartChatting, messages, onClearChat }: HomeSect
             Advanced Verification Protocol
           </h3>
           <p className="text-xs text-slate-400 font-serif leading-relaxed">
-            To ensure maximum legal accuracy, Samvidhan AI uses a proprietary vector chunking pipeline. Every prompt undergoes semantic vector evaluation, matching with official legal passages, and generating grounded responses with direct article-level citations.
+            To ensure maximum legal accuracy, Nepal Ko Samvidhan uses a proprietary vector chunking pipeline. Every prompt undergoes semantic vector evaluation, matching with official legal passages, and generating grounded responses with direct article-level citations.
           </p>
           <div className="flex flex-wrap gap-2 pt-2">
             <span className="inline-flex items-center gap-1.5 px-2 py-1 bg-[#1A1A1E] border border-[#222] text-[9px] font-mono text-slate-400">
